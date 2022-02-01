@@ -3,6 +3,6 @@ title: "Practical_2"
 output: html_document
 ---
 
-blah blah blha blah
-
-woot woot woot
+# Title  
+simple text  
+__bold__
