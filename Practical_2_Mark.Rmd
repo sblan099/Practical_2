@@ -3,6 +3,4 @@ title: "Practical_2"
 output: html_document
 ---
 
-# Title  
-simple text  
-__bold__
+branch 1 commit
